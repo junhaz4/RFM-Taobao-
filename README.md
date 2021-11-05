@@ -5,15 +5,26 @@ The raw data is obtained by web crawling from Taobao
 
 Description of original data:
 
-平台	
-店铺名称	
-买家昵称	
-付款时间	
-发货时间	
-结束时间	
-订单状态	
-实付金额	
-邮费	
-省份	
-城市	
-购买数量
+平台    : platform
+
+店铺名称 : Store Name
+
+买家昵称 : Customer Name
+
+付款时间 : Payment Time
+
+发货时间 : Delivery Time
+
+结束时间 : Order Ending Time
+
+订单状态 : Order Status
+
+实付金额 : Payment
+
+邮费	  : Postage
+
+省份	  : Province
+
+城市    : City  
+
+购买数量 : Quantity
